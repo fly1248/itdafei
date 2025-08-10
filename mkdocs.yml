@@ -1,0 +1,19 @@
+# MkDocs 配置文件
+# 适用于 Gitee + 自定义域名的中文技术博客
+
+# 站点基本信息
+site_name: 大飞的个人技术博客站
+site_description: 记录技术学习与实践的个人博客
+site_author: 大飞|Frank
+site_url: https://feisite.cn  # 替换为你的自定义域名
+
+nav:
+  - Home: index.md
+  - DataDomain: DataDomain.md
+
+# theme: readthedocs
+theme:
+  name: mkdocs
+  color_mode: light
+  user_color_mode_toggle: true
+  locale: zh_CN
