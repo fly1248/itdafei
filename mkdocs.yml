@@ -9,6 +9,7 @@ site_url: https://feisite.cn  # 替换为你的自定义域名
 
 nav:
   - Home: index.md
+  - AboutMe: AboutMe.md
   - DataDomain: DataDomain.md
 
 # theme: readthedocs
