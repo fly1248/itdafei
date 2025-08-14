@@ -39,12 +39,13 @@ SISL算法可以简单粗暴地理解为亚文件级切片、消重和压缩—�
 
 </br>
 </br>
-**【异地容灾】**
+### 异地容灾
 
 Data Domain 很好地支持数据**复制**（支持台湾同胞时，经常听他们称之为”**抄写**“）到异地的另一台Data Domain 设备上，无论是部分的复制，还是全部的复制；双向的复制又或是完全由备份软件控制的复制， Data Domain都能很出色地实现。在数据复制的过程中，它也完美地引入了前面的数据消除机制——永远只复制必要的、最小的数据集合。
 
 除此之外，Data Domain 的 Cloud Tier 功能还支持将去重后的数据推送到云端存储，支持主流的云存储比如：AWS 的 S3，Azure的Blob Storage，Google Cloud Storage，以及阿里云的OSS。一台Data Domain 设备上可以支持添加两个不同的云存储单元，个人觉得这也是一个不错的冗余设计。
 
+* 参考: [DD_Replication](./src/DD_Replication.md)
 </br>
 </br>
 **【数据加密】**

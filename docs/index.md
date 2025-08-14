@@ -12,12 +12,14 @@
 	- SQL Server 数据库备份
 	- Oracle 数据库备份
 	- NDMP 备份
+ [Data Domain](./DataDomain.md) 
 
 ## Linux 操作系统
 
 
     文件系统操作
-    进程管理
+[进程管理](./Linux进程管理.md)
+
     用户与权限管理
     Linux三剑客
 
@@ -28,3 +30,5 @@
 	《卓有成效的管理者》
 	《终身成长》
 	《非暴力沟通》
+	《好好学习》
+	《认知觉醒》
