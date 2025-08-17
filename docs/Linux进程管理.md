@@ -12,4 +12,5 @@
 在Linux系统中，我们一般可以用 ps、top、kill、jobs 等命令来查看和管理进程。
 
 - ps命令参考：[ps命令](./src/ps命令.md)
+- nice和renice管理：[进程优先级](./src/进程优先级.md)
 - 
