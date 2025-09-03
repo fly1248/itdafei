@@ -7,7 +7,8 @@
 
 [VMware 虚拟机备份](VMware虚拟机备份.md)
 
-	- Hyper-V 虚拟机备份
+[Hyper-V 虚拟机备份](./Hyper-V虚拟机备份.md)
+
 	- Windows 系统备份
 	- Linux 系统备份
 	- SQL Server 数据库备份
@@ -39,3 +40,6 @@
 [《凤凰项目：一个IT运维的传奇故事》](./凤凰项目.md)
 
 [《刻意练习》1-有效性](./src/学习的有效性.md)
+
+[《混乱》- 我们的KPI](./src/混乱.md)
+
