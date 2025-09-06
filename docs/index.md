@@ -9,11 +9,13 @@
 
 [Hyper-V 虚拟机备份](./Hyper-V虚拟机备份.md)
 
-	- Windows 系统备份
+[Windows 系统备份](./Windows系统备份.md)
+
 	- Linux 系统备份
 	- SQL Server 数据库备份
 	- Oracle 数据库备份
 	- NDMP 备份
+- 
  [Data Domain](./DataDomain.md) 
 
 ## Linux 操作系统
@@ -30,7 +32,9 @@
 
 ## 读书笔记
 
-	《高效能人士的七个习惯》
+[《高效能人士的七个习惯》](./src/高效能人士七个习惯1-效能.md)
+
+
 	《自卑与超越》
 	《卓有成效的管理者》
 	《终身成长》
